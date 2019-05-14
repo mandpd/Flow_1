@@ -2,7 +2,9 @@
     "name": "new-proj",
     "description": "Testing the projects capabilities of node-red",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "@attc/excel-write": "0.0.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
